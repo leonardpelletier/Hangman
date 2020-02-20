@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DodgingPuzzle
+comment1.params=
+comment1.target=DodgingPuzzle()
+comment2.params=guess
+comment2.target=boolean\ makeGuess(java.lang.String)
+comment3.params=
+comment3.target=boolean\ isUnsolved()
+comment4.params=
+comment4.target=void\ show()
+numComments=5
